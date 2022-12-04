@@ -30,4 +30,4 @@ if (isParsed == false)
 int newNumber = (number % 100) /10;
 
     Console.WriteLine (newNumber);
-    
+   
